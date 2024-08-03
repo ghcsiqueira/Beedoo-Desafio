@@ -12,7 +12,7 @@
 | Campo | Descrição |
 | ----- | --------- | 
 | Ordenação | Os cards dos cursos devem ser apresentados de forma ordenada de acordo com a data de criação do curso| 
-| Tamanho | Os cards devem ter tamanhos padronizados (iguais) | 
+| Rsponsividade | Os cards devem ter tamanhos padronizados (iguais) em diferentes dispositivos| 
 | Nome | Os cards devem apresentar o nome do curso | 
 | Descrição | Os cards devem apresentar a descrição completa do curso | 
 | Imagem | Os cards devem apresentar a imagem | 
@@ -55,9 +55,9 @@
 # Sugestão de melhorias
 
 ## 💭 Formulário de cadastro
-> Durante a criação de um curso, caso algum campo não seja preenchido
-> Deve-se mostrar uma mensagem de erro informando ao usuário que o preenchimento do campo é obrigatório
-> Deve-se mostrar a quantidade máxima de caracteres na descrição do curso
+> Durante a criação de um curso, caso algum campo não seja preenchido:
+> * Deve-se mostrar uma mensagem de erro informando ao usuário que o preenchimento do campo é obrigatório
+> * Deve-se mostrar a quantidade máxima de caracteres na descrição do curso
 
 
 | Campo | Mensagem de erro | 
@@ -73,9 +73,22 @@
 | Link de inscrição | Este campo é obrigatório | 
 
 ## 💭 Filtros de pesquisa
+
 | Filtros | Descrição | 
 | -----|---------|
 | Nome do curso | Buscar pelo nome próximo ou igual ao curso | 
 | Data de ínicio | Busca para mostrar quais cursos começaram naquela determinada data | 
 | Tipo de curso | Busca para tipos de curso online ou presencial | 
 | Instrutor | Busca para determinado instrutor | 
+
+
+# 🔗 Links úteis
+
+## 💻 Casos de teste 
+
+> Casos de testes gerados para teste realizados: [Casos de teste](https://docs.google.com/spreadsheets/d/1wqGrSI8uh6THnhateDbSDqDIkz8ls919/edit?usp=sharing&ouid=107918705939835555711&rtpof=true&sd=true)
+
+## 🐞 Bug report
+> Bug report dos problemas identificados durante os testes realizados: [Bug report](https://docs.google.com/spreadsheets/d/1GamyV-OKB7H3t9_JAPKa-e3kA4eNaOsL/edit?usp=sharing&ouid=107918705939835555711&rtpof=true&sd=true)
+
+
