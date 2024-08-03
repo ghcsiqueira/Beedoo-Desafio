@@ -81,6 +81,13 @@
 | Tipo de curso | Busca para tipos de curso online ou presencial | 
 | Instrutor | Busca para determinado instrutor | 
 
+## 💭 Adição de logs - Criação de cursos e inscrição de alunos
+
+| Log | Descrição | 
+| -----|---------|
+| Criação de cursos| Deve-se gerar log para armazenas as informações de quem criou o curso, bem como as informações preenchidas durante o processo | 
+| Inscrição no curso | Deve-se gerar logs dos alunos inscritos no curso, com as informações únicas de cada aluno, como nome completo, cpf, data de nascimento, e-mail, meio de pagamento |
+
 
 # 🔗 Links úteis
 
